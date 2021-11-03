@@ -1,0 +1,13 @@
+{
+    "name": "petrik/egridr",
+    "description": "pdf generator",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Petrik\\Egridr\\": "src/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^1.0"
+    }
+}
